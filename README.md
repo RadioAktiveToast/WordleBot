@@ -1,4 +1,4 @@
-# basically copy and paste the wordle file into your IDE and make sure you have these 3 things downloaded:
+# basically copy and paste the wordle file into your IDE and make sure you have these 3 extensions downloaded:
 # random
 # requests
 # beautifulsoup4
